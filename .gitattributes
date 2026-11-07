@@ -1,0 +1,2 @@
+# Keep the audited source bytes identical across Windows and other checkouts.
+* -text
