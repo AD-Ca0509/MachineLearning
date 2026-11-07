@@ -1,0 +1,7 @@
+torch
+torchvision
+timm==1.0.30
+numpy
+Pillow
+scikit-learn
+safetensors

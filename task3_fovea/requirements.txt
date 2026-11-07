@@ -1,0 +1,6 @@
+# 普通 Python 3.12+ 环境可使用兼容版本；GPU 版 torch/torchvision 请按 PyTorch 官方配对安装。
+torch>=2.5
+torchvision>=0.20
+numpy>=1.26
+Pillow>=10
+scikit-learn>=1.4

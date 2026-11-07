@@ -1,0 +1,106 @@
+{
+  "prepared_date": "2026-11-07",
+  "description": "SHA256 of source copies and existing submissions; no training rerun",
+  "files": [
+    {
+      "file": "task1_plant/plant_classifier_v6.py",
+      "sha256": "9988f40e432a4acdec33bba803f24a94d91c40ac194521ec2504920e352a95b9",
+      "bytes": 17270
+    },
+    {
+      "file": "task1_plant/plant_classifier.py",
+      "sha256": "a737c359df3089ada6481ace6cc31c5be514244833d9b533be884a686ba9b4b3",
+      "bytes": 13256
+    },
+    {
+      "file": "task1_plant/submission_v6.csv",
+      "sha256": "c82af10280a96f79fec400e414ceb0dba1eeddc9a710d45823b81b9273a386d4",
+      "bytes": 11666
+    },
+    {
+      "file": "task2_expression/train.py",
+      "sha256": "0e4d1b8e2133c75c3825e040e8a2fcdc3dfde5d50ba50b9927548e18da383a78",
+      "bytes": 50708
+    },
+    {
+      "file": "task2_expression/submission.csv",
+      "sha256": "74cc7985b48b324d869cd4ec4b85f48ea51f697e2e4e7549fbbfac921a145e78",
+      "bytes": 127182
+    },
+    {
+      "file": "task3_fovea/model_utils.py",
+      "sha256": "8c3524097c4ec8d90bc297c6231f1f0b9db5f5b6abc65e1123dbbf3c3aa995fc",
+      "bytes": 14608
+    },
+    {
+      "file": "task3_fovea/networks.py",
+      "sha256": "f7a186e3a330104f17e765b62f7145ab3d2329e3cf24e62cdbf7b31ec0875616",
+      "bytes": 1444
+    },
+    {
+      "file": "task3_fovea/predict.py",
+      "sha256": "8b43b6f63d0b9edf69c3398efbb4db3e3267e68ea90db3f28a67e170434e4bea",
+      "bytes": 3777
+    },
+    {
+      "file": "task3_fovea/train.py",
+      "sha256": "fa757cc72edd0965513b4713d63edcb7cd5b4dbd917725bf8144d8bcd7a0f7b4",
+      "bytes": 802
+    },
+    {
+      "file": "task3_fovea/train_convnext_cv.py",
+      "sha256": "a0a739d4b09a34d47d53415af6df0e269bb580d834a343cc22d3b0169abb0b66",
+      "bytes": 4736
+    },
+    {
+      "file": "task3_fovea/train_full_fresh.py",
+      "sha256": "3b010c345bebb00f033add37633e1c77d53c08929a8fc457231bbae88c24f9cc",
+      "bytes": 5123
+    },
+    {
+      "file": "task3_fovea/train_refit.py",
+      "sha256": "4025a43b944842148648f06db13b2c3a61d9d440675400af0b541ff5f01c0adf",
+      "bytes": 6123
+    },
+    {
+      "file": "task3_fovea/train_resnet_cv.py",
+      "sha256": "1594a25b2786d8c16135380c06b4bb0961495e09f4e0114b21eebe8182a8a46a",
+      "bytes": 29572
+    },
+    {
+      "file": "task3_fovea/model_config.json",
+      "sha256": "39cb5552b691214790ce70387d098ea8300e4698649a75453c1f6452e8eb245e",
+      "bytes": 1222
+    },
+    {
+      "file": "task3_fovea/requirements.txt",
+      "sha256": "14b097bc8531d67d3e5c9f5b5a56b863c70ff8dfb55c91db10cb785d24639636",
+      "bytes": 185
+    },
+    {
+      "file": "task3_fovea/submission.csv",
+      "sha256": "fa538a2de2484559672300b0ff3c87dd15964e6fabc07313761c06e272829e6a",
+      "bytes": 976
+    },
+    {
+      "file": "task4_vessels/main.py",
+      "sha256": "41532bce24002002fc800513aa611a29edf718255ddf8df3d10c932e3112aa5f",
+      "bytes": 10635
+    },
+    {
+      "file": "task4_vessels/train_vessels.py",
+      "sha256": "a3014921e58cdb945b35a3c34b6cae3cd0aaa6f03e6188a00e64f96dc8e63a0a",
+      "bytes": 10880
+    },
+    {
+      "file": "task4_vessels/submission.csv",
+      "sha256": "0c5d1df6578f16012b3ea54c792b6a22f9d9d414b968f553aef0131e2f8f2910",
+      "bytes": 786506
+    },
+    {
+      "file": "task4_vessels/provided/segmentation_to_csv.py",
+      "sha256": "ff55cef84f508febe1b86a8f9d353df699b4eaecc33805c56ee0cd1405858cec",
+      "bytes": 2503
+    }
+  ]
+}

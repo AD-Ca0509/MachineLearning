@@ -1,0 +1,58 @@
+{
+  "families": [
+    {
+      "name": "resnet_cv",
+      "directory": "models/resnet_cv",
+      "architecture": "resnet50_fpn",
+      "side": 384,
+      "weight": 0.3,
+      "checkpoints": [
+        "fold_0.pt",
+        "fold_1.pt",
+        "fold_2.pt",
+        "fold_3.pt",
+        "fold_4.pt"
+      ]
+    },
+    {
+      "name": "convnext_cv",
+      "directory": "models/convnext_cv",
+      "architecture": "convnext_tiny_fpn",
+      "side": 448,
+      "weight": 0.3,
+      "checkpoints": [
+        "fold_0.pt",
+        "fold_1.pt",
+        "fold_2.pt",
+        "fold_3.pt",
+        "fold_4.pt"
+      ]
+    },
+    {
+      "name": "refit",
+      "directory": "models/refit",
+      "architecture": "convnext_tiny_fpn",
+      "side": 448,
+      "weight": 0.2,
+      "checkpoints": [
+        "fold_0.pt",
+        "fold_1.pt",
+        "fold_2.pt",
+        "fold_3.pt",
+        "fold_4.pt"
+      ]
+    },
+    {
+      "name": "fresh",
+      "directory": "models/fresh",
+      "architecture": "convnext_tiny_fpn",
+      "side": 448,
+      "weight": 0.2,
+      "checkpoints": [
+        "member_0.pt",
+        "member_1.pt"
+      ]
+    }
+  ],
+  "visibility_threshold": 0.1
+}
